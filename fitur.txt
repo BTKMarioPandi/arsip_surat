@@ -1,0 +1,8 @@
+login,
+logout,
+user crud,
+privilages crud,
+upload foto profil,
+change password,
+change biodata,
+protect with form validation
